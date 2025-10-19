@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://github.com/AerotechRussia/.github/blob/main/profile/%D0%90%D1%8D%D1%80%D0%BE%D1%82%D0%B5%D1%85%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.svg" alt="AEROTECH Logo"/>
 </p>
-
 ### **О НАС: AEROTECH**
 
 **AEROTECH** — это не компания. Это — инженерная доктрина.
