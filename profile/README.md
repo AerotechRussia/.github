@@ -1,40 +1,6 @@
-<p align="center">
-  <svg width="340" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect x="0" y="9" width="18" height="4" fill="#FFFFFF"/>
-    <rect x="0" y="13" width="18" height="4" fill="#0039A6"/>
-    <rect x="0" y="17" width="18" height="4" fill="#D52B1E"/>
-    
-    <text x="30" y="27" 
-          font-family="'IBM Plex Mono', 'Courier New', Courier, monospace" 
-          font-size="28px" 
-          font-weight="600" 
-          fill="#FFFFFF" 
-          letter-spacing="1">
-      AEROTECH
-    </text>
-    
-    <text x="215" y="26" 
-          font-family="'IBM Plex Mono', 'Courier New', Courier, monospace" 
-          font-size="22px" 
-          font-weight="600" 
-          fill="#FFFFFF" 
-          opacity="0.7" 
-          letter-spacing="1">
-      РОССИЯ
-    </text>
-  </svg>
-</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Q7O4mZ.png" alt="Философия AEROTECH"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/9nF0b1Q.jpeg" alt="ARLIST K1 VTOL Platform"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/g0tX81c.png" alt="Процесс AEROTECH"/>
+  <img src="./profile/Аэротех Россия.svg" alt="AEROTECH Logo"/>
 </p>
 
 ---
@@ -59,7 +25,6 @@
 | **AEROTECH "Crucible"** | `[INTERNAL]` | Наш ультимативный R&D-стенд для симуляции, тестирования и отладки. |
 | **Arlist AI** | `[CLASSIFIED]` | Разработка ИИ, основанного на физике реального мира, а не на текстах из интернета. |
 
-
 ---
 
 ### **[ AEROTECH Labs: ПРИСОЕДИНИТЬСЯ ]**
@@ -72,5 +37,4 @@
 
 **Мы не ищем тех, кто ищет работу. Мы ищем тех, кто ищет миссию.**
 
-> **[ УЗНАТЬ О СТАРТЕ ПРОГРАММЫ "АВАНГАРД-20" www.arlist.tech ]**
-
+> **[ УЗНАТЬ О СТАРТЕ ПРОГРАММЫ "АВАНГАРД-20" (ссылка на твой сайт) ]**
