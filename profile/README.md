@@ -1,82 +1,102 @@
 <p align="center">
-  <svg width="340" height="35" xmlns="http://www.w3.org/2000/svg">
-    <rect x="0" y="9" width="18" height="4" fill="#FFFFFF"/>
-    <rect x="0" y="13" width="18" height="4" fill="#0039A6"/>
-    <rect x="0" y="17" width="18" height="4" fill="#D52B1E"/>
-    
-    <text x="30" y="27" 
-          font-family="'IBM Plex Mono', 'Courier New', Courier, monospace" 
-          font-size="28px" 
-          font-weight="600" 
-          fill="#FFFFFF" 
-          letter-spacing="1">
-      AEROTECH
-    </text>
-    
-    <text x="215" y="26" 
-          font-family="'IBM Plex Mono', 'Courier New', Courier, monospace" 
-          font-size="22px" 
-          font-weight="600" 
-          fill="#FFFFFF" 
-          opacity="0.7" 
-          letter-spacing="1">
-      РОССИЯ
-    </text>
-  </svg>
+<svg width="340" height="35" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="9" width="18" height="4" fill="https://www.google.com/search?q=%23FFFFFF"/>
+<rect x="0" y="13" width="18" height="4" fill="https://www.google.com/search?q=%230039A6"/>
+<rect x="0" y="17" width="18" height="4" fill="https://www.google.com/search?q=%23D52B1E"/>
+<text x="30" y="27"
+font-family="'IBM Plex Mono', 'Courier New', Courier, monospace"
+font-size="28px"
+font-weight="600"
+fill="https://www.google.com/search?q=%23FFFFFF"
+letter-spacing="1">
+AEROTECH
+</text>
+<text x="215" y="26"
+font-family="'IBM Plex Mono', 'Courier New', Courier, monospace"
+font-size="22px"
+font-weight="600"
+fill="https://www.google.com/search?q=%23FFFFFF"
+opacity="0.7"
+letter-spacing="1">
+РОССИЯ
+</text>
+</svg>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Q7O4mZ.png" alt="Философия AEROTECH"/>
+<img src="https://i.imgur.com/8Q7O4mZ.png" alt="Философия AEROTECH"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/9nF0b1Q.jpeg" alt="ARLIST K1 VTOL Platform"/>
+<img src="https://i.imgur.com/9nF0b1Q.jpeg" alt="ARLIST K1 VTOL Platform"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/g0tX81c.png" alt="Процесс AEROTECH"/>
+<img src="https://i.imgur.com/g0tX81c.png" alt="Процесс AEROTECH"/>
 </p>
 
----
+[ О НАС: AEROTECH ]
 
-### **[ О НАС: AEROTECH ]**
-
-**AEROTECH** — это не компания. Это — инженерная доктрина.
+AEROTECH — это не компания. Это — инженерная доктрина.
 
 Мы не следуем стандартам рынка. Мы создаем их. Мы отвергаем компромиссы и "достаточно хорошие" решения, которые наводнили индустрию. Мы строим только то, во что верим: самые надежные, интеллектуальные и бескомпромиссные летательные платформы на планете.
 
 Наш процесс — это тысячи итераций. Наша философия — радикальная честность. Наш результат — технология без компромиссов.
 
----
+[ ТЕКУЩИЙ ФОКУС: НАШИ КЛЮЧЕВЫЕ ПРОЕКТЫ ]
 
-### **[ ТЕКУЩИЙ ФОКУС: НАШИ КЛЮЧЕВЫЕ ПРОЕКТЫ ]**
+Проект
 
-| Проект | Статус | Описание |
-| :--- | :--- | :--- |
-| **AEROTECH OS (Core)** | `[ACTIVE DEVELOPMENT]` | Наш форк PX4/ArduPilot. Мы добавляем проприетарные модули (VAM, ILAS) и создаем самую надежную ОС для гибридных БПЛА. |
-| **AEROTECH "Valkyrie"** | `[R&D / OPEN-SOURCE]` | **[ПРОТОКОЛ "ЛЕВИАФАН"]** Наша референсная плата полетного контроллера. Мы устанавливаем новый открытый стандарт "железа". |
-| **AEROTECH "Argus"** | `[R&D / OPEN-SOURCE]` | **[ПРОТОКОЛ "АРГУС"]** Наш открытый стандарт цифровой HD-видеосвязи. Мы объединяем рынок. |
-| **AEROTECH "Crucible"** | `[INTERNAL]` | Наш ультимативный R&D-стенд для симуляции, тестирования и отладки. |
-| **Arlist AI** | `[CLASSIFIED]` | Разработка ИИ, основанного на физике реального мира, а не на текстах из интернета. |
+Статус
+
+Описание
+
+AEROTECH OS (Core)
+
+[ACTIVE DEVELOPMENT]
+
+Наш форк PX4/ArduPilot. Мы добавляем проприетарные модули (VAM, ILAS) и создаем самую надежную ОС для гибридных БПЛА.
+
+AEROTECH "Valkyrie"
+
+[R&D / OPEN-SOURCE]
+
+[ПРОТОКОЛ "ЛЕВИАФАН"] Наша референсная плата полетного контроллера. Мы устанавливаем новый открытый стандарт "железа".
+
+AEROTECH "Argus"
+
+[R&D / OPEN-SOURCE]
+
+[ПРОТОКОЛ "АРГУС"] Наш открытый стандарт цифровой HD-видеосвязи. Мы объединяем рынок.
+
+AEROTECH "Crucible"
+
+[INTERNAL]
+
+Наш ультимативный R&D-стенд для симуляции, тестирования и отладки.
+
+Arlist AI
+
+[CLASSIFIED]
+
+Разработка ИИ, основанного на физике реального мира, а не на текстах из интернета.
 
 <p align="center">
-  <img src="https://i.imgur.com/gJ8zK3W.png" alt="Проект K1"/>
+<img src="https://i.imgur.com/gJ8zK3W.png" alt="Проект K1"/>
 </p>
 
----
+[ AEROTECH Labs: ПРИСОЕДИНИТЬСЯ ]
 
-### **[ AEROTECH Labs: ПРИСОЕДИНИТЬСЯ ]**
+Мы не нанимаем сотрудников. Мы вербуем инженеров-фанатиков.
 
-Мы не нанимаем сотрудников. Мы вербуем **инженеров-фанатиков**.
+Мы не публикуем вакансии. Мы бросаем вызовы. У нас нет отдела HR, у нас есть "Перчатка" (The Gauntlet).
 
-Мы не публикуем вакансии. Мы бросаем **вызовы**. У нас нет отдела HR, у нас есть **"Перчатка" (The Gauntlet)**.
+Если вы считаете, что ваш уровень инженерного гения или программирования соответствует нашим стандартам, следите за нашими анонсами. Докажите свое превосходство и получите приглашение в "Авангард" — наш закрытый R&D-отдел.
 
-Если вы считаете, что ваш уровень инженерного гения или программирования соответствует нашим стандартам, следите за нашими анонсами. Докажите свое превосходство и получите приглашение в **"Авангард"** — наш закрытый R&D-отдел.
+Мы не ищем тех, кто ищет работу. Мы ищем тех, кто ищет миссию.
 
-**Мы не ищем тех, кто ищет работу. Мы ищем тех, кто ищет миссию.**
-
-> **[ УЗНАТЬ О СТАРТЕ ПРОГРАММЫ "АВАНГАРД-20" (ссылка на твой сайт) ]**
+УЗНАТЬ О СТАРТЕ ПРОГРАММЫ "АВАНГАРД-20"
 
 <p align="center">
-  <img src="https://i.imgur.com/vHqgS4L.png" alt="Секретный проект"/>
+<img src="https://i.imgur.com/vHqgS4L.png" alt="Секретный проект"/>
 </p>
