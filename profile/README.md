@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./profile/Аэротех Россия.svg" alt="AEROTECH Logo"/>
+  <img src="profile/Аэротех Россия.svg" alt="AEROTECH Logo"/>
 </p>
 
 ---
